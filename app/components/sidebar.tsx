@@ -99,7 +99,7 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>Hello Yann AI!</div>
         <div className={styles["sidebar-sub-title"]}>
-          属于你个人的专属语言助手 .
+          属于你个人的专属语言助手 !
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <YannChatGptIcon />
